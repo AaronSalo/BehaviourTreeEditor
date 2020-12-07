@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfConnection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Connection>
+    <inPoint>
+      <id>97273145-04f0-4564-ba85-64096334f7a9</id>
+    </inPoint>
+    <outPoint>
+      <id>d870c107-9b04-4373-9ac8-dce8c864c97d</id>
+    </outPoint>
+  </Connection>
+  <Connection>
+    <inPoint>
+      <id>8e2bdd35-eb01-4600-89af-dd2b1236cd02</id>
+    </inPoint>
+    <outPoint>
+      <id>b9381d78-3f2e-47a5-bd4a-49ec44af05cf</id>
+    </outPoint>
+  </Connection>
+  <Connection>
+    <inPoint>
+      <id>bc9e5d14-8c20-4920-8786-e2889922615e</id>
+    </inPoint>
+    <outPoint>
+      <id>b9381d78-3f2e-47a5-bd4a-49ec44af05cf</id>
+    </outPoint>
+  </Connection>
+</ArrayOfConnection>
