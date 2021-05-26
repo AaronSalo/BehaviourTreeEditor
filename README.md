@@ -10,6 +10,8 @@ Includes functionality for:
 
 You can see a short (~10 min) demo [here](https://youtu.be/PKJ8B0WJEuM)
 
+[Here's](Behaviour Trees_ What They are and Why They are Useful.pdf) my writeup on behaviour trees if you want to learn more.
+
 The idea of behaviour trees is to create complex AI behaviour by using and reusing the same nodes in different ways. New action nodes can be added for specific tasks and are linked together with the control flow nodes (selector, and fallback)
 
 
