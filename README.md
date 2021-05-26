@@ -2,6 +2,7 @@
 Behaviour Tree Editor built for Unity
 
 This developer tool was created to assist designers in creating unique behaviours for AI agents using a simple set of nodes.
+There is still a lot of work to be done for this to be fully functional. A key design for the next iteration would be saving of the tree structure, but as this was a class project, I was very pressed for time.
 
 Includes functionality for:
 - fallback nodes
